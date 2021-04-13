@@ -20,7 +20,7 @@
     
 1. Give write permissions to user on required folders
 
-    cd ~/www/kellton-ikram
+    cd ~/www/invoice-system
 
     sudo chmod -R 777 storage/app/public
 
